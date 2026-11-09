@@ -1,2 +1,10 @@
-# Network-Packet-Analyzer-with-Python
-I built a Network Packet Analyzer inside of an Ubuntu Linux Terminal via VirtualBox by using Python. I tested it by running google, youtube, microsoft, and pinging 8.8.8.8 in a separate terminal window.
+# Python-Network-Packet-Analyzer
+
+## Overview
+My project consists of a Linux-based Network Packet Analyzer built with Python and Scapy that captures and analyzes live network traffic in real time. 
+
+This project was made to gain further understanding of networking and developing practical skills with Linux and Python. 
+
+---
+
+## 
