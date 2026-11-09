@@ -8,6 +8,6 @@ This project was made to gain further understanding of networking and developing
 
 ## 1. Capturing multiple packets
 
-![50 packets captured](images/Snapshot_1.png)
+![snapshot1](images/Snapshot_1.png)
 
 This is proof of the 50 packets captured.
