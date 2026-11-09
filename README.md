@@ -10,4 +10,12 @@ This project was made to gain further understanding of networking and developing
 
 ![Snapshot_1](images/Snapshot_1.png)
 
-This is proof of the 50 packets captured.
+This snapshot provides what my packet analyzer looks like when it captured 50 packets.
+
+---
+
+## 2. Final report
+
+![Snapshot2](Images/Snapshot_2.png)
+
+After successfully capturing 50 packets, my network analyzer provides a final report in what IP addresses were captured. 
