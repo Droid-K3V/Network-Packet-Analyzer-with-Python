@@ -19,3 +19,21 @@ This snapshot provides what my packet analyzer looks like when it captured 50 pa
 ![finalreport](PacketAnalyzer/Images/Snapshot_2.png)
 
 After successfully capturing 50 packets, my network analyzer provides a final report in what IP addresses were captured along with the protocol counts. 
+
+---
+
+## 3. Ubuntu Desktop
+
+![Desktop](PacketAnalyzer/Images/Snapshot_3.png)
+
+This is my showcase of having an additional terminal window pinging 8.8.8.8 to generate traffic along with 3 windows on my Firefox running Google, YouTube, and Microsoft.
+
+---
+
+## 4. Project Files
+
+![Files](PacketAnalyzer/Images/Snapshot_4.png)
+
+I listed the files inside of my Ubuntu virtual machine, to indicate what was created for my packet analyzer project.
+
+
