@@ -8,7 +8,7 @@ This project was made to gain further understanding of networking and developing
 
 ## 1. Capturing multiple packets
 
-![Snapshot_1](Images/Snapshot_1.png)
+![Snapshot1](Images/Snapshot_1.png)
 
 This snapshot provides what my packet analyzer looks like when it captured 50 packets.
 
