@@ -10,12 +10,12 @@ This project was made to gain further understanding of networking and developing
 
 ![50](PacketAnalyzer/Images/Snapshot_1.png)
 
-This snapshot provides what my packet analyzer looks like when it captured 50 packets.
+This snapshot provides what my packet analyzer looks like when it captured 50 packets, providing deeper detail on what its destination port is. 
 
 ---
 
 ## 2. Final report
 
-![finalreport](Images/Snapshot_2.png)
+![finalreport](PacketAnalyzer/Images/Snapshot_2.png)
 
-After successfully capturing 50 packets, my network analyzer provides a final report in what IP addresses were captured. 
+After successfully capturing 50 packets, my network analyzer provides a final report in what IP addresses were captured along with the protocol counts. 
